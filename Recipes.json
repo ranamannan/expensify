@@ -1,0 +1,6 @@
+Chicken65 : {
+  chicken : 1,
+  oil : 2ltr,
+  spicy : false,
+  desc  : "very delicius food served for chilled soda"
+}
